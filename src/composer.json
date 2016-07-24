@@ -1,0 +1,19 @@
+{
+    "name": "yljphp/sms",
+    "description": "一个短信扩展包",
+    "authors": [
+        {
+            "name": "ylj",
+            "email": "1195877741@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yljphp\\Sms\\": "src/"
+        },
+        "files": [
+            "src/Helper/helpers.php"
+        ]
+    },
+    "require": {}
+}
