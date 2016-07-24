@@ -1,6 +1,9 @@
 {
     "name": "yljphp/sms",
     "description": "一个短信扩展包",
+    "license": "MIT",
+    "keywords": ["yljphp sms"],
+    "version": "1.0.0",
     "authors": [
         {
             "name": "ylj",
