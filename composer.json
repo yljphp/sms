@@ -2,8 +2,8 @@
     "name": "yljphp/sms",
     "description": "一个短信扩展包",
     "license": "MIT",
-    "keywords": ["yljphp sms"],
-    "homepage":["https://github.com/yljphp/sms"],
+    "keywords": ["yljphp","sms"],
+    "homepage": "https://github.com/yljphp/sms",
     "minimum-stability": "stable",
     "authors": [
         {
