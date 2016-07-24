@@ -3,7 +3,6 @@
     "description": "一个短信扩展包",
     "license": "MIT",
     "keywords": ["yljphp","sms"],
-    "homepage": "https://github.com/yljphp/sms",
     "minimum-stability": "stable",
     "authors": [
         {
@@ -18,9 +17,5 @@
         "files": [
             "src/Helper/helpers.php"
         ]
-    },
-    "require": {
-        "php": ">=5.5.9",
-        "laravel/framework": "5.1.*",
     }
 }
