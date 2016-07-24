@@ -3,6 +3,7 @@
     "description": "一个短信扩展包",
     "license": "MIT",
     "keywords": ["yljphp sms"],
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "ylj",
